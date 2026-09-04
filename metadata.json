@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Nearby",
+  "description": "Privacy-first, offline-first nearby social & activity companion with Wi-Fi Direct encrypted P2P chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
